@@ -217,6 +217,7 @@ nav a #current{
         float:center;
     }
     .container img{
+        padding-left:5vh;
         width:100%;
         height:auto;
     }
